@@ -1,4 +1,5 @@
 hello meg
 hello gowdre
 hello everyone
-local
+remote
+bugfix
